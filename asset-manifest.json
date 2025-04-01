@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BekaGigashvili/React-portfolio.git/static/css/main.de4a5f9b.css",
+    "main.js": "/BekaGigashvili/React-portfolio.git/static/js/main.42411ebb.js",
+    "index.html": "/BekaGigashvili/React-portfolio.git/index.html",
+    "main.de4a5f9b.css.map": "/BekaGigashvili/React-portfolio.git/static/css/main.de4a5f9b.css.map",
+    "main.42411ebb.js.map": "/BekaGigashvili/React-portfolio.git/static/js/main.42411ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4a5f9b.css",
+    "static/js/main.42411ebb.js"
+  ]
+}
